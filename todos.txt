@@ -1,0 +1,2 @@
+- disable solve original kalo load
+- new game, solve, new game lagi, timer ngelanjut (harusnya ulang dari 00:00)
